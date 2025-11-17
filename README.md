@@ -19,7 +19,7 @@ Please select one of the following methods to join the practice:
 * *Note:* You must manually install all required tools before class.
 
 ### Option 2: Cloud Server
-* **Available on cloud** (AWS, GCP, or your personal server).
+* **Available on cloud** (Cloud shell).
 * *Note:* Ensure you have SSH access and a valid UNIX environment.
 
 ### Option 3: GitHub Codespaces (Recommended) ✨
