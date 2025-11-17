@@ -1,0 +1,25 @@
+{
+  "name": "Bioinformatics Class (Docker)",
+  
+  // 이미지가 아닌 Dockerfile을 빌드하도록 설정
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+
+  // 컨테이너 생성 후 실행할 명령어 (데이터 다운로드 등 필요시 사용)
+  // "postCreateCommand": "bash .devcontainer/setup_data.sh",
+
+  // VS Code 확장 프로그램 설정
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "mechatroner.rainbow-csv",
+        "foxundermoon.shell-format"
+      ]
+    }
+  },
+
+  // Codespace 접속 시 사용할 유저 (Microsoft 이미지 기본 유저)
+  "remoteUser": "vscode"
+}
