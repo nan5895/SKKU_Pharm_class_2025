@@ -20,7 +20,6 @@ Please select one of the following methods to join the practice:
 
 ### Option 2: Cloud Server
 * **Available on cloud** (Cloud shell).
-* *Note:* Ensure you have SSH access and a valid UNIX environment.
 
 ### Option 3: GitHub Codespaces (Recommended) ✨
 * **Link:** [https://github.com/nan5895/SKKU_Pharm_class_2025](https://github.com/nan5895/SKKU_Pharm_class_2025)
